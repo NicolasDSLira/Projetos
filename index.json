@@ -3,7 +3,7 @@
         "Id": 1,
         "Titulo": "Portifólio",
         "LT": "Next-JS, Node, JS6, CSS3, HTML5",
-        "Descricao": "Este projeto foi realizado por mim com a finalidade de divulgar meus projetos pessoais de uma forma mais ... própria.",
+        "Descricao": "Desenvolvi este portifólio com a finalidade de expor meus projetos pessoas e práticar NextJS. Para o desenvolver, foi utilizado flexbox com a findalidade de auxiliar na responsividade do site, o que ajudou muito para realizar a disposição dos elementos.",
         "Imagem": "portifolio",
         "Link": "link github"
     }
