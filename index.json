@@ -1,11 +1,19 @@
 [
     {
         "Id": 1,
-         "Titulo": "Agenda com Laravel",
-        "LT": "Laravel, MySQL, PHP, JQuery, CSS3, HTML5",
+        "Titulo": "Agenda com Laravel",
+        "LT": "Laravel, PHPMyAdmin, MySQL, PHP, JQuery, CSS3, HTML5",
         "Descricao": "Este projeto foi construído com a finalidade obtenção de mensão do curso Tecnico a qual realizei. Para desenvolver o mesmo, utilizei o framework Laravel, que na minha opinião é muito bom para desenvolver back-end com PHP, e além deste utilizei JQuery, uma biblioteca JavaScript que facilita o desenvolvimento do front-end.  ",
         "Imagem": "AgendaLaravel",
         "Link": "https://github.com/NicolasDSLira/agenda_laravel"
+    },
+    {
+        "Id": 2,
+        "Titulo": "Home +",
+        "LT": "JQuery, Bootstrap, PHPMyAdmin, MySQL, PHP, CSS3, HTML5",
+        "Descricao": "Realizei o back-end do projeto, que foi desenvolvido com a finalidade de ser apresentado como Trabalho de Conclusão de Curso. Para a realização do mesmo utilizei da linguagem PHP para processamento e requisição de dados. Para o banco de dados que foi desenvolvido em MySQL, foi utilizado PHPMyAdmin.",
+        "Imagem": "HomePlus",
+        "Link": "https://github.com/NicolasDSLira/Home-"
     },
     {
         "Id": 10,
